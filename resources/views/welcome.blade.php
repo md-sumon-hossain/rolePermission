@@ -128,5 +128,8 @@
                 </div>
             </div>
         </div>
+        <div>
+            <a style="text-align: center" href="{{ route('user.index') }}">user</a>
+        </div>
     </body>
 </html>
